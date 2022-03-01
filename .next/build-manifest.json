@@ -1,0 +1,37 @@
+{
+  "devFiles": [
+    "static/development/dll/dll_22e4df8c45434c2168dc.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack.js",
+      "static/chunks/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/chunks/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/index": [
+      "static/runtime/webpack.js",
+      "static/chunks/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
+    ],
+    "/leads": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/signin": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
